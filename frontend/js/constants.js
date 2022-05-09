@@ -1,5 +1,5 @@
 const contractAddress = "0x0ab820dC6b96DbD87E68392Ef6E63BfD680bc1ED"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Goat Social NFT community project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
