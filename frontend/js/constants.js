@@ -1,4 +1,4 @@
-const contractAddress = "0x0ab820dC6b96DbD87E68392Ef6E63BfD680bc1ED"; //Replace with your own contract address
+const contractAddress = "0xd7590DE12Be99da6A38b4d1a9C6526A0072aa9Bd"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Goat Social NFT community project!";
